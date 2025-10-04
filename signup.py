@@ -11,5 +11,5 @@ link_signup.click()
 
 time.sleep(1)
 print("URL sau khi click:", driver.current_url)
-driver.save_screenshot(r"D:\2025\thang8\nhap_mon_cong_nghe_phan_mem\lab03\ten_anh.png")
+driver.save_screenshot(r"D:\2025\thang8\nhap_mon_cong_nghe_phan_mem\lab03\signup.png")
 driver.quit()
